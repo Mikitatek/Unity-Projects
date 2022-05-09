@@ -20,7 +20,7 @@ m_EmbeddedPackageManifests:
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: C:/Users/mikit/OneDrive/Documents/GitHub/Unity-Projects/OneTAP/Packages
-m_EditorVersion: 2021.3.0f1 (6eacc8284459)
+m_EditorVersion: 2021.3.1f1 (3b70a0754835)
 m_ResolvedPackages:
 - packageId: com.unity.collab-proxy@1.15.15
   testable: 0
